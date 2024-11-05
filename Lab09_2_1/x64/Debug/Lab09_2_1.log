@@ -1,0 +1,6 @@
+﻿  Lab09_2_1.cpp
+C:\Users\FurryFob\Desktop\АП\Лаби9\Лаб9.2\Lab09_2_1\Lab09_2_1\Lab09_2_1.cpp(18,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\FurryFob\Desktop\АП\Лаби9\Лаб9.2\Lab09_2_1\Lab09_2_1\Lab09_2_1.cpp(26,3): warning C4101: minimum: неиспользованная локальная переменная
+C:\Users\FurryFob\Desktop\АП\Лаби9\Лаб9.2\Lab09_2_1\Lab09_2_1\Lab09_2_1.cpp(23,3): warning C4101: kvadr_a: неиспользованная локальная переменная
+C:\Users\FurryFob\Desktop\АП\Лаби9\Лаб9.2\Lab09_2_1\Lab09_2_1\Lab09_2_1.cpp(25,3): warning C4101: abs_: неиспользованная локальная переменная
+  Lab09_2_1.vcxproj -> C:\Users\FurryFob\Desktop\АП\Лаби9\Лаб9.2\Lab09_2_1\x64\Debug\Lab09_2_1.exe
